@@ -1,3 +1,3 @@
-# Bayesian-Hierarchical-Modelling_routine
+# Bayesian-Hierarchical-Modeling_routine
 
-Scripts and notes for Bayesian hierarchical modelling analysis in cognitive paradigms
+Scripts and notes for Bayesian hierarchical modeling analysis in cognitive paradigms
